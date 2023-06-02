@@ -1,4 +1,4 @@
-# Cosmology-
+# Cosmology Assignments Repository
 Hey there, welcome to my Cosmology Assignments Repository! This repository is a collection of assignments that I've completed during my journey in the fascinating field of cosmology. If you're a student, researcher, or simply someone interested in exploring the mysteries of the universe, you've come to the right place.
 
 About Cosmology
