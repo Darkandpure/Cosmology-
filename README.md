@@ -20,16 +20,19 @@ To get started with the assignments, you'll need a few dependencies. Make sure y
 
 Python 3: The assignments are written in Python, so having Python 3 installed on your machine is essential.
 
+
 NumPy: This powerful numerical computing library is used extensively in the assignments. You can install it by running the following command:
-
-
 pip install numpy
+
+
 SciPy Optimization: The assignments also make use of the optimization capabilities provided by SciPy. Install it using the following command:
-
 pip install scipy
-Matplotlib: Matplotlib is a plotting library that allows us to visualize the results. Install it using the following command:
 
+
+Matplotlib: Matplotlib is a plotting library that allows us to visualize the results. Install it using the following command:
 pip install matplotlib
+
+
 Once you have these dependencies installed, you're ready to dive into the assignments!
 
 Feel free to clone this repository to your local machine using the following command:
